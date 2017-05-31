@@ -1,0 +1,13 @@
+/* HSL */
+$color1: hsla(24%, 9%, 33%, 1);
+$color2: hsla(60%, 1%, 18%, 1);
+$color3: hsla(219%, 15%, 34%, 1);
+$color4: hsla(224%, 23%, 66%, 1);
+$color5: hsla(272%, 37%, 93%, 1);
+
+/* RGB */
+$color1: rgba(91, 82, 76, 1);
+$color2: rgba(46, 46, 45, 1);
+$color3: rgba(73, 82, 99, 1);
+$color4: rgba(148, 159, 188, 1);
+$color5: rgba(238, 231, 244, 1);
